@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="34.997" viewBox="0 0 38 34.997">
+  <g id="ICON_camera_-_required" data-name="ICON_camera - required" transform="translate(0 2.997)">
+    <path id="_38x35" data-name="38x35" d="M0,0H38V35H0Z" transform="translate(0 -2.997)" fill="none"/>
+    <path id="camera" d="M18.16,4.667,20.6,7.333H26v16H4.667v-16h5.4l2.44-2.667H18.16M19.333,2h-8L8.893,4.667H4.667A2.675,2.675,0,0,0,2,7.333v16A2.675,2.675,0,0,0,4.667,26H26a2.675,2.675,0,0,0,2.667-2.667v-16A2.675,2.675,0,0,0,26,4.667H21.773Zm-4,9.333a4,4,0,1,1-4,4,4.012,4.012,0,0,1,4-4m0-2.667A6.667,6.667,0,1,0,22,15.333,6.669,6.669,0,0,0,15.333,8.667Z" transform="translate(1 2)" fill="red"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="36" viewBox="0 0 52 36">
+  <g id="icon_-_minus" data-name="icon - minus" transform="translate(-24.864 -0.063)">
+    <g id="minus_button" data-name="minus button" transform="translate(24.864 0.063)" fill="#fff" stroke="#33a3dc" stroke-width="2">
+      <path d="M12,0H52a0,0,0,0,1,0,0V36a0,0,0,0,1,0,0H12A12,12,0,0,1,0,24V12A12,12,0,0,1,12,0Z" stroke="none"/>
+      <path d="M12,1H51a0,0,0,0,1,0,0V35a0,0,0,0,1,0,0H12A11,11,0,0,1,1,24V12A11,11,0,0,1,12,1Z" fill="none"/>
+    </g>
+    <g id="minus_sign" data-name="minus sign" transform="translate(40.864 10.01)">
+      <rect id="minus" width="16" height="4" transform="translate(3 6.053)" fill="#33a3dc"/>
+    </g>
+  </g>
+</svg>

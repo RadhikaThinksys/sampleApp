@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="radio_button_-_selected" data-name="radio button - selected" transform="translate(-3 -16)">
+    <circle id="radio_button" data-name="radio button" cx="12" cy="12" r="12" transform="translate(3 16)" fill="#33a3dc"/>
+    <path id="check-square" d="M13.171,55.706,20.7,48.174a.655.655,0,0,0,0-.926l-.926-.926a.655.655,0,0,0-.926,0l-6.143,6.143L9.84,49.6a.655.655,0,0,0-.926,0l-.926.926a.655.655,0,0,0,0,.926l4.257,4.257A.655.655,0,0,0,13.171,55.706Z" transform="translate(0.826 -23.156)" fill="#fff"/>
+  </g>
+</svg>

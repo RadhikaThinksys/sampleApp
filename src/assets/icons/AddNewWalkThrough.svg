@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Icon_Add_large_" data-name="Icon Add large (+)" transform="translate(0 -0.053)">
+    <circle id="Ellipse_344" data-name="Ellipse 344" cx="22" cy="22" r="22" transform="translate(0 0.053)" fill="#33a3dc"/>
+    <g id="plus_sign" data-name="plus sign" transform="translate(10 10)">
+      <rect id="PLUS_-" data-name="PLUS -" width="24" height="6" transform="translate(0 9.053)" fill="#fff"/>
+      <rect id="PLUS_" data-name="PLUS |" width="6" height="24" transform="translate(9 0.053)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

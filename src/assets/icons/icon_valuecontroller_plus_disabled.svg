@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="36" viewBox="0 0 52 36">
+  <g id="icon_-_plus_disabled_" data-name="icon - plus (disabled)" transform="translate(-144.864 -0.063)">
+    <g id="_minus_button" data-name="&quot;minus&quot; button" transform="translate(144.864 0.063)" fill="#fff" stroke="rgba(51,163,220,0.5)" stroke-width="2">
+      <path d="M0,0H40A12,12,0,0,1,52,12V24A12,12,0,0,1,40,36H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,1H40A11,11,0,0,1,51,12V24A11,11,0,0,1,40,35H1a0,0,0,0,1,0,0V1A0,0,0,0,1,1,1Z" fill="none"/>
+    </g>
+    <g id="plus_sign" data-name="plus sign" transform="translate(157.864 10.01)" opacity="0.5">
+      <rect id="PLUS.2" width="16" height="4" transform="translate(3 6.053)" fill="#33a3dc"/>
+      <rect id="PLUS.1" width="4" height="16" transform="translate(9 0.053)" fill="#33a3dc"/>
+    </g>
+  </g>
+</svg>

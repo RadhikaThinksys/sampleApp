@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <filter id="radio_button">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.2" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="radio_button_-_default" data-name="radio button - default" transform="translate(-476 -801)">
+    <g data-type="innerShadowGroup">
+      <circle id="radio_button-2" data-name="radio button" cx="12" cy="12" r="12" transform="translate(476 801)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, 476, 801)" filter="url(#radio_button)">
+        <circle id="radio_button-3" data-name="radio button" cx="12" cy="12" r="12" fill="#fff"/>
+      </g>
+      <g id="radio_button-4" data-name="radio button" transform="translate(476 801)" fill="none" stroke="#33a3dc" stroke-width="2">
+        <circle cx="12" cy="12" r="12" stroke="none"/>
+        <circle cx="12" cy="12" r="11" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
